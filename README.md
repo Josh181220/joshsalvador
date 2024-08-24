@@ -22,9 +22,12 @@ Other Tools: SAP, Big Query, MS PowerPoint
 
 **📜 Certifications**
 
-<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="50"/> AWS Cloud Practitioner | August 2024
-<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" alt="Tableau Certified Desktop Specialist" width="50"/> Tableau Certified Desktop Specialist | July 2024
-<img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="50"/> Google Data Analytics Professional Certificate | March 2022
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="50"/> 
+AWS Cloud Practitioner | August 2024
+<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" alt="Tableau Certified Desktop Specialist" width="50"/> 
+Tableau Certified Desktop Specialist | July 2024
+<img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="50"/> 
+Google Data Analytics Professional Certificate | March 2022
 
 **🌐 Let's Connect!**
 LinkedIn
