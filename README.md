@@ -1,11 +1,11 @@
 <div align="center">
   
-<h3>**Hi there! 👋**</h3>
+<h1>Hi there! 👋</h1>
 I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories.
 
 
 
-<h2>**💡 What I Do:**</h2>  
+<h2>💡 What I Do:</h2>  
 
 | **Activity**              | **Description**                                                                                             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love fo
 
 I'm always excited to learn new things, collaborate on interesting projects, and contribute to the data community. Let's connect and explore the power of data together!
 
-<h2>**💻 Technical Skills**</h2>  
+<h2>💻 Technical Skills</h2>  
 
 **Skill Category**           | **Tools & Technologies**                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ I'm always excited to learn new things, collaborate on interesting projects, and
 | **Cloud Platforms**           | AWS (Cloud Practitioner Certified)                                                                      |
 | **Other Tools**               | SAP, BigQuery, MS PowerPoint                                                                            |
 
-<h2>**📜 Certifications**</h2>
+<h2>📜 Certifications</h2>
 
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="50"/> 
 
@@ -40,7 +40,7 @@ Google Data Analytics Professional Certificate | March 2022
 
 
 
-<h2>**🌐 Let's Connect!**</h2>
+<h2>🌐 Let's Connect!</h2>
 LinkedIn
 
 Instagram
