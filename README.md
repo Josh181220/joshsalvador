@@ -1,3 +1,5 @@
+<div align="center">
+  
 **Hi there! 👋**
 I'm Josh from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories.
 
