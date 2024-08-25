@@ -41,6 +41,14 @@ Google Data Analytics Professional Certificate | March 2022
 
 
 <h2>🌐 Let's Connect!</h2>
-LinkedIn
 
-Instagram
+<a href="https://www.linkedin.com/in/josh-salvador-1b0622205/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:10px;" />
+</a>
+
+<a href="https://www.instagram.com/joshalvador/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" style="vertical-align:middle;" />
+</a>
+
+
+</div>
