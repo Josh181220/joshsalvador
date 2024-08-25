@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>Hi there! 👋</h1>
-I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories.
+I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories. I'm always excited to learn new things, collaborate on interesting projects, and contribute to the data community. Let's connect and explore the power of data together!
 
 
 
@@ -13,16 +13,16 @@ I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love fo
 | **Data Visualization**     | Create visually appealing and informative charts, dashboards, and reports.                                 |
 | **Storytelling with Data** | Combine analytical insights with creative expression to communicate data effectively.                      |
 
-I'm always excited to learn new things, collaborate on interesting projects, and contribute to the data community. Let's connect and explore the power of data together!
 
 <h2>💻 Technical Skills</h2>  
 
-**Skill Category**           | **Tools & Technologies**                                                                                 |
+| **Skill Category**           | **Tools & Technologies**                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------|
-| **Programming & Analysis**    | Python, SQL, R, Machine Learning                                                                        |
-| **Data Visualization**        | Tableau, Power BI, MS Excel                                                                             |
-| **Cloud Platforms**           | AWS (Cloud Practitioner Certified)                                                                      |
-| **Other Tools**               | SAP, BigQuery, MS PowerPoint                                                                            |
+| **Programming & Analysis**    | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="20" style="vertical-align:middle; margin-right:5px;" /> Python, <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="20" style="vertical-align:middle; margin-right:5px;" /> SQL, <img src="https://cdn-icons-png.flaticon.com/512/3888/3888262.png" alt="R" width="20" style="vertical-align:middle; margin-right:5px;" /> R, <img src="https://cdn-icons-png.flaticon.com/512/1048/1048950.png" alt="Machine Learning" width="20" style="vertical-align:middle; margin-right:5px;" /> Machine Learning |
+| **Data Visualization**        | <img src="https://cdn-icons-png.flaticon.com/512/732/732099.png" alt="Tableau" width="20" style="vertical-align:middle; margin-right:5px;" /> Tableau, <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Power BI" width="20" style="vertical-align:middle; margin-right:5px;" /> Power BI, <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="MS Excel" width="20" style="vertical-align:middle; margin-right:5px;" /> MS Excel |
+| **Cloud Platforms**           | <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="AWS" width="20" style="vertical-align:middle; margin-right:5px;" /> AWS (Cloud Practitioner Certified) |
+| **Other Tools**               | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968354.png" alt="SAP" width="20" style="vertical-align:middle; margin-right:5px;" /> SAP, <img src="https://cdn-icons-png.flaticon.com/512/3874/3874412.png" alt="BigQuery" width="20" style="vertical-align:middle; margin-right:5px;" /> BigQuery, <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="MS PowerPoint" width="20" style="vertical-align:middle; margin-right:5px;" /> MS PowerPoint |
+
 
 <h2>📜 Certifications</h2>
 
